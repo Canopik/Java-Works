@@ -1,0 +1,8 @@
+package ru.mirea.task3.Human;
+
+public class Body {
+    String muscles = "Толстое";
+    public void Output() {
+        System.out.println("Тело: " + muscles);
+    }
+}
